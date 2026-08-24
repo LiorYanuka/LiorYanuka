@@ -3,17 +3,6 @@
 **Founding Engineer at [dot SAGA](https://dotsaga.live)**, building products end to end —
 from the database up through the API to whatever the user actually touches.
 
-### What I've been building
-
-**[Kuchu_Bachelors](https://github.com/LiorYanuka/Kuchu_Bachelors)** — a countdown that turns
-into a live trip app. Progressive web app with offline support, shared real-time state across
-ten phones via Redis, and an itinerary everyone can edit from their own device.
-`JavaScript · Vercel · Redis · Service Workers`
-
-**[Firewall](https://github.com/LiorYanuka/Firewall)** — a firewall rule management system.
-Next.js front end, Node/Express API, PostgreSQL with Drizzle ORM.
-`TypeScript · Next.js · Express · PostgreSQL`
-
 ### Working with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
