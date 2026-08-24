@@ -4,11 +4,11 @@
 
   **Founding Engineer at [dot SAGA](https://dotsaga.live)**
 
-  *Building products end to end — from the database up through the API to whatever the user actually touches.*
+  *Building products end to end - from the database up through the API to whatever the user actually touches.*
 
   <br />
 
-  ### 🛠️ Working with
+  ### Working with
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -20,7 +20,7 @@
   <br />
   <br />
 
-  ### 📫 Reach me
+  ### Reach me
 
   <a href="https://www.linkedin.com/in/lior-yanuka/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
